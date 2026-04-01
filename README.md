@@ -1,4 +1,4 @@
-📊 Marketing Campaign Dashboard — Excel Analytics Project
+# 📊 Marketing Campaign Dashboard — Excel Analytics Project
 
 An interactive marketing analytics dashboard built in Microsoft Excel, analysing the performance of 6 campaigns across 5 locations over a 5-month period (August–December 2025).
 
@@ -60,6 +60,18 @@ An interactive marketing analytics dashboard built in Microsoft Excel, analysing
 | Total Impressions | 689,681 |
 | Total Clicks | 49,294 |
 | Total Units Sold | 21,524 |
+
+---
+
+## 📸 Screenshots
+
+![Dashboard](screenshots/dashboard.png)
+![Campaign Charts](screenshots/campaign_charts.png)
+![Location Charts](screenshots/location_charts.png)
+![Monthly Sales](screenshots/monthly_sales.png)
+![Campaign Performance](screenshots/campaign_performance.png)
+![Location Performance](screenshots/location_performance.png)
+![Slicers](screenshots/slicers.png)
 
 ---
 
