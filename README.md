@@ -2,6 +2,8 @@
 
 An interactive marketing analytics dashboard built in Microsoft Excel, analysing the performance of 6 campaigns across 5 locations over a 5-month period (August–December 2025).
 
+![Dashboard Preview](screenshots/dashboard.png)
+
 ---
 
 ## 📁 Project Structure
